@@ -1,0 +1,3 @@
+9283718239;juan ;alvarez ;Efectivo;Negocio;true;true;false;19
+1231241241;bejrwe;qweqwe;Efectivo;Negocio;false;true;false;12
+2039333333;juan;alvarez;Tarjeta;Seminario;true;false;false;12

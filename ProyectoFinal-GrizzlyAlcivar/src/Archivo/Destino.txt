@@ -1,0 +1,2 @@
+1721565883;Ecuador;Hotel de tres estrella;false;true;true;false;5;false;12
+1203699945;Panama;Hotel de cuatro estrella;true;false;true;true;3;false;3
