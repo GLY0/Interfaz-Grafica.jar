@@ -1,2 +1,2 @@
-# Interfaz-Grafica.jar
+# Interfaz Grafica
 Proyecto Academico. Interfaz de una agencia de vaiajes
